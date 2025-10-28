@@ -1,18 +1,75 @@
-# ✅ About Me:
-👋 Full Stack Developer specializing in building dynamic and scalable web applications. Proficient in both frontend and backend technologies, with a focus on delivering high-quality, efficient solutions. Currently expanding my expertise in mobile development with Flutter.
+# Abdallah Al Magableh
+
+**`.NET Software Engineer · Full-Stack (.NET + Angular)`**
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/se-abdallah) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17397961) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cyberneticistt) 
+I design and maintain backend systems using monolith and clean architecture patterns and microservices architecture.  I implement message driven workflows to guarantee reliable integrations and eventual consistency. I collaborate with product owners QA and engineers to turn requirements into small shippable increments. I support and guide other developers through code reviews pair programming and practical best practices. I continuously expand my frontend skills into React and other modern tools to remain adaptable across full-stack needs.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=plastic&logo=Ionic&logoColor=white) ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=plastic&logo=jasmine&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=plastic&logo=reactivex&logoColor=white) ![RxDB](https://img.shields.io/badge/rxdb-%238D1F89.svg?style=plastic&logo=rxdb&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=plastic&logo=couchbase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=plastic&logo=dribbble&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white)
+ <br>
+
+ ![alt text](<logo/Asset 2ldpi.png>)
+ 
+ <br>
+
+##  What I do
+
+- Design and build .NET Core APIs with EF Core and robust data models.
+
+- Build SPAs with Angular, TypeScript and reactive forms.
+
+- Apply message driven patterns, outbox, and idempotent handlers for reliable workflows.
+
+- Implement CI/CD, automated tests, and observability: logs, metrics, traces.
+
+- Optimize queries and caching to improve runtime performance and stability.
+
+<br>
+
+
+<p alig="left">
+<a href="https://linkedin/se-abdallah">
+<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://stackoverflow.com/users/17397961/3bdallah-oi">
+<img alt="linkedin" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+</a>
+<a href="https://x.com/RealAbdallahM">
+<img alt="linkedin" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+</a>
+<!-- <a href="https://linkedin/se-abdallah">
+<img alt="linkedin" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg">
+</a>
+<a href="https://x.com/RealAbdallahM">
+<img alt="linkedin" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/twitter-x.svg">
+</a> -->
+
+
+
+---
+
+## Tech Stack
+
+<p align="center mt-10">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,angular,cs,javascript,typescript,html,css,tailwind,rabbitmq,kafka,mongodb,mysql,postgres,sqlite,postman,cypress,nodejs,azure,aws,git,github,kubernetes,docker,vscode&perline=8" />
+  </a>
+</p>
+
+
+## Productivity
+
+<p align="center mt-10 p-10">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=obsidian,xd,illustrator,notion,figma" />
+  </a>
+</p>
+
+
+
+### 📊 Stats
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=se-abdallah&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=se-abdallah&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=se-abdallah&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=se-abdallah&icon=10&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
