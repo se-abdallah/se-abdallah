@@ -1,4 +1,5 @@
-# **Abdallah Al Magableh**
+#  ![alt text](logo/brand.png)
+# **Abdallah Al Magableh** 
 
 
 ## ✏️ About <div class="text-align space-around">
@@ -7,7 +8,7 @@
 I design and maintain backend systems using monolith and clean architecture patterns and microservices architecture.  I implement message driven workflows to guarantee reliable integrations and eventual consistency. I collaborate with product owners QA and engineers to turn requirements into small shippable increments. I support and guide other developers through code reviews pair programming and practical best practices. I continuously expand my frontend skills into React and other modern tools to remain adaptable across full-stack needs.
 <!-- </div> -->
  
- ![alt text](<logo/Asset 2ldpi.png>)
+
  
  <br>
 
@@ -26,8 +27,9 @@ I design and maintain backend systems using monolith and clean architecture patt
 <br>
 
 
+
 <p alig="left">
-<a href="https://linkedin/se-abdallah">
+<a href="https://www.linkedin.com/in/se-abdallah/">
 <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://stackoverflow.com/users/17397961/3bdallah-oi">
